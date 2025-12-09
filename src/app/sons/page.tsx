@@ -13,8 +13,7 @@ const sons = [
     corBorda: "border-blue-500/30",
     corHover: "hover:border-blue-400/60",
     corSombra: "hover:shadow-[0_0_40px_rgba(59,130,246,0.4)]",
-    audioUrl:
-      "https://assets.mixkit.co/active_storage/sfx/2393/2393-preview.mp3",
+    audioUrl: "/sounds/rain.mp3",
   },
   {
     id: "mar",
@@ -24,8 +23,7 @@ const sons = [
     corBorda: "border-cyan-500/30",
     corHover: "hover:border-cyan-400/60",
     corSombra: "hover:shadow-[0_0_40px_rgba(34,211,238,0.4)]",
-    audioUrl:
-      "https://assets.mixkit.co/active_storage/sfx/2488/2488-preview.mp3",
+    audioUrl: "/sounds/ocean-waves.mp3",
   },
   {
     id: "floresta",
@@ -35,8 +33,7 @@ const sons = [
     corBorda: "border-green-500/30",
     corHover: "hover:border-green-400/60",
     corSombra: "hover:shadow-[0_0_40px_rgba(34,197,94,0.4)]",
-    audioUrl:
-      "https://assets.mixkit.co/active_storage/sfx/2450/2450-preview.mp3",
+    audioUrl: "/sounds/forest.mp3",
   },
   {
     id: "ventilador",
@@ -46,8 +43,7 @@ const sons = [
     corBorda: "border-gray-500/30",
     corHover: "hover:border-gray-400/60",
     corSombra: "hover:shadow-[0_0_40px_rgba(107,114,128,0.4)]",
-    audioUrl:
-      "https://assets.mixkit.co/active_storage/sfx/2443/2443-preview.mp3",
+    audioUrl: "/sounds/fan-white-noise.mp3",
   },
 ];
 
